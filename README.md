@@ -54,8 +54,6 @@ define WIFI_PASSWORD "SUA_SENHA"
 #define AIO_USERNAME "SEU_USUARIO_ADAFRUIT"
 #define AIO_KEY "SUA_CHAVE_ADAFRUIT"
 ```
-<ul> <li>Certifique-se de que o Adafruit IO esteja configurado corretamente com suas credenciais MQTT:</li> </ul>
-<h2>📁 Estrutura do Repositório</h2> <ul> <li><code>src/</code>: Contém os códigos-fonte do projeto.</li> <li><code>HARDWARE.md</code>: Detalhamento dos componentes de hardware e esquemas de montagem.</li> <li><code>COMMUNICATION.md</code>: Documentação dos protocolos e interfaces.</li> <li><code>README.md</code>: Este arquivo, com instruções gerais do projeto.</li> </ul>
-<h2>📈 Métricas</h2> <p>Os tempos médios de resposta foram medidos para garantir a eficiência da comunicação:</p> <table align="center"> <thead> <tr> <th>Núm. Medida</th> <th>Sensor/Atuador</th> <th>Tempo de Resposta (ms)</th> </tr> </thead> <tbody> <tr> <td>1</td> <td>Sensor</td> <td>2 ms</td> </tr> <tr> <td>2</td> <td>Atuador</td> <td>2 ms</td> </tr> <tr> <td>3</td> <td>Sensor</td> <td>2 ms</td> </tr> <tr> <td>4</td> <td>Atuador</td> <td>2 ms</td> </tr> </tbody> </table>
-<h2>👨‍💻 Autor</h2> <p>Projeto desenvolvido por <b>[Seu Nome]</b>. Para dúvidas ou sugestões, entre em contato:</p> <ul> <li><b>Email:</b> seuemail@dominio.com</li> <li><b>GitHub:</b> <a href="https://github.com/seuusuario">github.com/seuusuario</a></li> </ul>
+
+<h2>👨‍💻 Autor</h2> <p>Projeto desenvolvido por <b>Luan Gabriel Ferreira</b>. Para dúvidas ou sugestões, entre em contato:</p> <ul> <li><b>Email:</b> luan.gab.f@gmail.com</li> <li><b>GitHub:</b> <a href="https://github.com/gomesbtw">https://github.com/gomesbtw</a></li> </ul>
 
