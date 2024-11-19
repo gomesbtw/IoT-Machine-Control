@@ -19,9 +19,11 @@
 <ul>
   <li><b>ESP32</b> (Plataforma principal)</li>
   <li><b>LEDs</b> (Vermelho e Verde)</li>
-  <li><b>Resistor</b> de 220 Ω</li>
+  <li><b>Resistores</b> de 220 Ω</li>
   <li><b>Receptor IR</b></li>
   <li><b>Protoboard</b></li>
+  <li><b>SW-420</b></li>
+  <li><b>Controle IR</b></li>
   <li><b>Jumpers</b> (Macho-macho)</li>
 </ul>
 
