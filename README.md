@@ -10,7 +10,7 @@
 <ol>
   <li>Baixe este repositório.</li>
   <li>Siga as instruções de hardware e software descritas abaixo.</li>
-  <li>Carregue o código <code>codigo.ino</code> na plataforma ESP32 utilizando o Arduino IDE ou outra IDE compatível.</li>
+  <li>Carregue o código <code>projeto.ino</code> na plataforma ESP32 utilizando o Arduino IDE ou outra IDE compatível.</li>
   <li>Certifique-se de instalar as bibliotecas necessárias antes de compilar o código.</li>
 </ol>
 
