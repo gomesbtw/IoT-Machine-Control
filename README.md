@@ -27,8 +27,6 @@
   <li><b>Jumpers</b> (Macho-macho)</li>
 </ul>
 
-<p>Detalhes do hardware e esquemas de ligação estão disponíveis no arquivo <code>HARDWARE.md</code>.</p>
-
 ---
 
 <h2>🔗 Comunicação</h2>
@@ -38,8 +36,6 @@
   <li><b>Mensagens publicadas:</b> <code>sensor/vibration</code> (detecção de vibração)</li>
   <li><b>Mensagens recebidas:</b> <code>command/led</code> (controle dos LEDs)</li>
 </ul>
-
-<p>Configurações detalhadas do protocolo e das interfaces estão descritas no arquivo <code>COMMUNICATION.md</code>.</p>
 
 ---
 
